@@ -11,9 +11,8 @@ A Railway Management System built using DBMS (Database Management System). The s
 - **Search Functionality**: Search for available trains based on departure and arrival stations.
 
 ## Technologies Used
-- **DBMS**: SQL Server/MySQL/SQLite (depending on what you used)
+- **DBMS**: MySQL
 - **Backend**: SQL for creating and managing databases and queries
-- **Programming Language**: Python/Java (based on the language used in your project)
 
 ## Database Schema
 The system uses the following tables:
